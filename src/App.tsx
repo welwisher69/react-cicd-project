@@ -75,7 +75,7 @@ class App extends Component<AppProps, AppState> {
       !this.state.isAuthenticating &&
       <div className="App container">
         <Navbar navbar-light="true" className="mb-3 navbar">
-          <Navbar.Brand href="/">AABG Full-Stack CICD Demo</Navbar.Brand>
+          <Navbar.Brand href="/">AABG Full-Stack CICD Demo Application Using Amplify</Navbar.Brand>
           <Navbar.Toggle />
           <Navbar.Collapse>
             <Nav className="ml-auto">
